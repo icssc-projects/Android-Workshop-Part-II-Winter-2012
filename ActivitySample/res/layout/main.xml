@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<TextView  
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content" 
+    	android:layout_gravity="center"
+    	android:text="Click On Button #"
+    	android:textSize="30sp"
+    	android:layout_margin="10dip"
+    	android:id="@+id/text"
+    	/>
+    <Button
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="Button # 1"
+    	android:id="@+id/b1"
+    	android:layout_margin="5dip"/>
+    <Button
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="Button # 2"
+    	android:id="@+id/b2"
+    	android:layout_margin="5dip"/>
+    <Button
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="Button # 3"
+    	android:id="@+id/b3"
+    	android:layout_margin="5dip"/>
+    <Button
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="Button # 4"
+    	android:id="@+id/b4"
+    	android:layout_margin="5dip"/>
+    <Button
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="Button # 5"
+    	android:id="@+id/b5"
+    	android:layout_margin="5dip"/>
+</LinearLayout>

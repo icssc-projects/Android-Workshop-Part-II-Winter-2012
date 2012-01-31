@@ -1,0 +1,11 @@
+.project
+.classpath
+.settings/
+bin/
+gen/
+WI.keystore
+local.properties
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
