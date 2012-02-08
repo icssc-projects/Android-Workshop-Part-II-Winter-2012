@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SensorSampleActivity!</string>
+    <string name="app_name">SensorSample</string>
+</resources>
